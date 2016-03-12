@@ -8,7 +8,14 @@
 | Spyder MR-1 | Kyle Macey | $10/day | Marker, hopper, fixed stock, C02 tank |
 | Tippmann A5 | Kyle Macey | $20/day | Marker, hopper, red dot sight, collapsible stock, sniper barrel, short barrel, C02 tank |
 
-## Misc Equipment Rentals
+# Required equipment
+
+| Name | Rental Price | 
+| :-- | --: |
+| Face Mask | $5/day |
+| C02 tank (20oz) | $5/day |
+
+## Misc equipment
 
 | Name | Owner | Rental Price | Includes |
 | :-- | :-- | --: | :-- |
