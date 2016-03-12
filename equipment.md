@@ -7,8 +7,10 @@
 | :-- | :-- | --: | :-- |
 | Spyder MR-1 | Kyle Macey | $10/day | Marker, hopper, fixed stock, C02 tank |
 | Tippmann A5 | Kyle Macey | $20/day | Marker, hopper, red dot sight, collapsible stock, sniper barrel, short barrel, C02 tank |
+| Tiberius T15 | Kyle Macey | -- | *Not available for rent* |
+| Tiberius T8.1 | Kyle Macey | -- | *Not available for rent* |
 
-# Required equipment
+## Required equipment
 
 | Name | Rental Price | 
 | :-- | --: |
